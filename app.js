@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const button = document.getElementById('add-to-cart');
+  const button = document.getElementById('add-to-cart');ss
   const counter = document.getElementById('cart-count');
   const storageKey = 'cart-count';
   const MAX_QUANTITY = 100;
